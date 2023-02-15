@@ -4,11 +4,13 @@ go 1.19
 
 require (
 	github.com/golang/protobuf v1.5.2
+	github.com/jinzhu/gorm v1.9.16
 	github.com/micro/go-micro/v2 v2.9.1
 )
 
 require (
 	github.com/google/uuid v1.1.1 // indirect
+	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/miekg/dns v1.1.27 // indirect
 	github.com/oxtoacart/bpool v0.0.0-20190530202638-03653db5a59c // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
